@@ -24,5 +24,7 @@ Let's have some fun!
 2. [GitLeaks](https://github.com/gitleaks/gitleaks)
 3. [pre-commit framework](https://pre-commit.com/)
 4. [GitHooks.com](https://githooks.com/)
+5. [git-dad](https://github.com/ethomson/git-dad)
+6. [git-marge](https://github.com/mcdwayne/git-marge)
 
 

@@ -7,7 +7,6 @@ Thanks for taking this workshop. All will be explained in person.
 
 Let's have some fun! 
 
-
 ## Files 
 
 1. pre-commit.example
@@ -26,5 +25,3 @@ Let's have some fun!
 4. [GitHooks.com](https://githooks.com/)
 5. [git-dad](https://github.com/ethomson/git-dad)
 6. [git-marge](https://github.com/mcdwayne/git-marge)
-
-
